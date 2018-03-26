@@ -1,0 +1,3 @@
+This is a function for password checking.
+Password which is longer than 10 letters and includes at lease one upper letter, one lower letter,one number is necessary.
+or it will return false.
